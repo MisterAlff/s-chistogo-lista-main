@@ -67,7 +67,7 @@ min-height: 100px;
   gap: 12px;
 }
 
-.header__menu-item_active .header__menu-link{
+.header__menu-item_active .header__menu-link {
   text-decoration: none;
 }
 
